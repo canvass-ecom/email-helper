@@ -5,6 +5,10 @@
  */
 package com.cnv.emailhelper;
 
+import com.cnv.emailhelper.model.Receiver;
+import com.cnv.emailhelper.model.Sender;
+import com.cnv.emailhelper.model.EmailMessage;
+
 /**
  *
  * @author Owner

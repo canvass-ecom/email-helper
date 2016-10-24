@@ -6,9 +6,9 @@
 package com.cnv.emailhelper.sendgrid;
 
 import com.cnv.emailhelper.EmailHelper;
-import com.cnv.emailhelper.EmailMessage;
-import com.cnv.emailhelper.Receiver;
-import com.cnv.emailhelper.Sender;
+import com.cnv.emailhelper.model.EmailMessage;
+import com.cnv.emailhelper.model.Receiver;
+import com.cnv.emailhelper.model.Sender;
 import com.cnv.emailhelper.Utill;
 import java.io.UnsupportedEncodingException;
 import java.util.List;
